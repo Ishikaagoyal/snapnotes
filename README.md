@@ -56,17 +56,6 @@ SnapNotesAI is a cutting-edge web application built with **Next.js**, designed t
 
 ---
 
-## 📸 Screenshots  
-
-![Screenshot 1](https://github.com/aakashdixit22/scribeai/blob/main/public/md_demo/md_demo1.png?raw=true)  
-
-
-![Screenshot 2](https://github.com/aakashdixit22/scribeai/blob/main/public/md_demo/md_demo2.png?raw=true) 
-
-![Screenshot 3](https://github.com/aakashdixit22/scribeai/blob/main/public/md_demo/md_demo3.gif?raw=true) 
-
-
----
 
 ## 🚀 Installation  
 
