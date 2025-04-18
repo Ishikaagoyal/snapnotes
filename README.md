@@ -1,10 +1,10 @@
-# [ScribeAI](https://scribeai-lake.vercel.app/) ✍️  
+SnapNotes AI✍️  
 **AI-Powered PDF Notes Maker**  
 
 ---
 
 ## 📖 Description  
-ScribeAI is a cutting-edge web application built with **Next.js**, designed to revolutionize how users create and manage notes from PDF documents. The app empowers users to upload PDF files and interactively generate comprehensive notes using a state-of-the-art text editor integrated with **AI capabilities**.  
+SnapNotesAI is a cutting-edge web application built with **Next.js**, designed to revolutionize how users create and manage notes from PDF documents. The app empowers users to upload PDF files and interactively generate comprehensive notes using a state-of-the-art text editor integrated with **AI capabilities**.  
 
 ---
 
@@ -52,9 +52,7 @@ ScribeAI is a cutting-edge web application built with **Next.js**, designed to r
 - **Styling:**  
   - Designed with **Tailwind CSS** 🎨 for a modern, responsive UI.  
   - Enhanced with **Framer Motion** 🎥 for smooth animations.  
-
-- **Hosting:**  
-  - Deployed on **Vercel** 🌍 for optimal performance and reliability.  
+ 
 
 ---
 
@@ -80,8 +78,8 @@ ScribeAI is a cutting-edge web application built with **Next.js**, designed to r
 ### Steps  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/aakashdixit22/scribeai  
-   cd scribeai  
+   git clone https://github.com/Ishikaagoyal/snapnotes.git  
+   cd snapnotes  
    ```  
 2. Install dependencies:  
    ```bash  
@@ -119,18 +117,7 @@ ScribeAI is a cutting-edge web application built with **Next.js**, designed to r
    http://localhost:3000  
    ```  
 
----
 
-## 🌐 Deployment  
-For production deployment using Vercel and Convex DB, follow the [Convex DB Hosting Guide](https://docs.convex.dev/production/hosting/vercel).  
 
----
-
-## 📩 Contact Us  
-For issues or queries, feel use the **Contact Us** section on the [website](https://scribeai-lake.vercel.app).  
-
----
-
-## 📜 License  
-This project is licensed under the [MIT License](https://github.com/aakashdixit22/scribeai/blob/main/LICENSE).  
+ 
 
