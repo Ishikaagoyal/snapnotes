@@ -12,7 +12,7 @@ SnapNotesAI is a cutting-edge web application built with **Next.js**, designed t
 
 ### 🤖 AI-Powered Notes Creation  
 - **Ask Questions:** Users can ask questions about the uploaded PDF content directly in the text editor.  
-- **Smart Answers:** ScribeAI employs advanced AI models to analyze the PDF context and provide accurate, insightful answers.  
+- **Smart Answers:** snapnotes AI employs advanced AI models to analyze the PDF context and provide accurate, insightful answers.  
 - **Save AI Notes:** Answers can be saved as notes for future reference.  
 
 ### 📝 Advanced Text Editor  
