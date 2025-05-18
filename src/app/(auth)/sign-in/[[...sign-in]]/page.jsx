@@ -17,7 +17,7 @@ export default function Page() {
             className="object-contain"
           />
           <h1 className="text-3xl z-50 font-bold text-white">
-            Scribe AI
+            SnapNotes
           </h1>
         </div>
         <SignIn />
