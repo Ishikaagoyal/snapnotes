@@ -11,13 +11,13 @@ export default function Page() {
         <div className="flex items-center gap-2 mb-6">
           <Image 
             src="/logo.png"
-            alt="Scribe AI Logo"
+            alt="Snapnotes Logo"
             width={50}
             height={50}
             className="object-contain"
           />
           <h1 className="text-3xl z-50 font-bold text-white">
-            Scribe AI
+            Snapnotes AI
           </h1>
         </div>
         <SignUp />
